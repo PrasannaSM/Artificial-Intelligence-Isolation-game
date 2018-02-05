@@ -1,4 +1,8 @@
+# Artificial-Intelligence
+AI ==> Artficial Intelligence
 
+
+AI stands for artificial intelligence, where intelligence is defined as the ability to acquire and apply knowledge.		
 # Build a Game-playing Agent
 
 ![Example game of isolation](viz.gif)
